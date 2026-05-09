@@ -1,2 +1,2 @@
-# TickSafe-
+# TickSafe
 TickSafe app onboarding animation
